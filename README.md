@@ -102,8 +102,8 @@ I'm a CS student who thinks like a founder. I don't just write code — I ask **
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suleman-Khokhar&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suleman-Khokhar&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suleman-Khokhar&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suleman-Khokhar&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
 
 <br/>
 
